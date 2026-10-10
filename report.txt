@@ -1,4 +1,0 @@
-mango|15|75.0
-banana|50|50.0
-orange|5|40.0
-apple|10|30.0

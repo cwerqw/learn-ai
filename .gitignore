@@ -15,3 +15,14 @@ __pycache__/
 *.png
 *.xlsx
 *.csv
+
+# ---- 暂不上传的文件（想上传时删掉对应行）----
+*.txt
+260915.py
+calc.py
+sf.py
+requirements.txt
+sd.ipynb
+xue.ipynb
+zc.ipynb
+dyh.ipynb

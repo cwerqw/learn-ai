@@ -1,5 +1,0 @@
-Alice,5.5,20
-Bob,3.2,15
-Charlie,8.0,35
-David,2.5,10
-Eve,6.0,25
